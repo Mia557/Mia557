@@ -1,0 +1,20 @@
+.jumbotron {
+    height: 700px;
+    width: 100%;
+    margin-top: -20px;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fparispeaceforum.org%2Fen%2Finitiatives%2Fnet-zero-space%2F&psig=AOvVaw3nrO4kPcAhI7JpvK6TLUL8&ust=1644902203873000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKC_la-4_vUCFQAAAAAdAAAAABAD);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  vertical-align: bottom;
+
+}
+
+.footer {
+    height: 60px;
+    background-color: pink;
+    text-align: center;
+    padding: 20px;
+}
